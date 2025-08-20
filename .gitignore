@@ -1,3 +1,10 @@
+
+
+# Agrego archivo de datos
+docs/.dev.data
+
+
+
 # Logs
 logs
 *.log
